@@ -5,12 +5,15 @@ CDtoolX is a user-friendly, free-to-download-and-use software program that enabl
 ## Instructions
 Instructions for use are included by clicking the "Help" tab on the top left panel of the software. The downloadable files accompanying the CDtoolX software include an extensive users’ manual. However, the software is designed to be very intuitive and user-friendly so, in general, it can be used without reference to the manual. Users comments/questions can be addressed by emailing cdtools@mail.cryst.bbk.ac.uk.
 
+You can also find further instructions and tutorials on our youtube channel. 
+https://www.youtube.com/@ThePcddb/featured
 
-## windows 10 version 
+
+## Windows 10 version 
 CDtoolX is for Windows 10 and Windows 8 systems, and is usable on OsX and Linux systems with Windows 10 emulators. It is best to use third party zip programmes such as 7-zip to extract the files. Windows zip functions do not always work. Practice files are included in the test data directory.
 
 
-## windows 7 version
+## Windows 7 version
 CDTool is for Windows 7 operating systems. It is best to use third party zip programmes such as 7-zip to extract the files. Windows zip functions do not always work. Practice files are included in the test data directory
 
 
